@@ -28,6 +28,7 @@
         android:layout_marginStart="116dp"
         android:layout_marginTop="8dp"
         android:maxLines="2"
+        android:ellipsize="end"
         android:textAppearance="?attr/textAppearanceListItem"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
